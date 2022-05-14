@@ -32,9 +32,9 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 🧑🏻‍💻 **Developer:** @Jasuran123
 
-👥 **Support Group:** [Linux Repositories](https://t.me/dummypr)
+👥 **Support Group:** [DeepSea](https://t.me/dummypr)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/dummypr)
+📢 **Updates Channel:** [DeepSea](https://t.me/dummypr)
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developer:** @JAsuran123
